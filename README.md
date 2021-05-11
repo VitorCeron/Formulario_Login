@@ -20,5 +20,5 @@ Foi utilizado o CSS para realizar a estilização de todo o formulário
 E também foi utilizado o Javascript para o auxilio da manipulação de classe quando o campo contém valor
 
 ## Tutorial
-Este código foi criado para o tutorial Como criar uma tela de Login com HTML, CSS e Javascript
+Este código foi criado para o tutorial Como criar uma tela de Login com HTML, CSS e Javascript <br>
 Link: https://youtu.be/OrtemuQ0Xy8
